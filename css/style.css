@@ -1,0 +1,83 @@
+body {
+    font-family: arial;
+    background-color: rgb(255, 240, 221);}
+/*grundinställningar*/
+div.header{
+    font-family: Verdana, Times, Arial;
+    text-align: center;
+    border: solid;
+    border-color: #a2b4dd;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-left: 50px;
+    margin-bottom: 20px;
+}
+h3 {
+    color: #000000;
+    padding: 15px;
+    background-color: #a2b4dd;
+}
+p {
+    color: #59659a;
+    border-top: none;
+}
+a {
+    color: #000;
+}
+/*detaljinställningar*/
+p.header{
+    text-align: center;
+    padding-top: 50px;
+}
+p.about{
+    text-align: center;
+    padding-left: 10px;
+    margin: 20px;
+    border: solid 1px;
+}
+ul.ingredients{
+    padding-bottom: 10px;
+    border-bottom: solid 1px;
+}
+ol.recipe{
+    padding-bottom: 10px;
+    border-bottom: solid 1px;
+}
+img.medium {
+    width: 400px;
+    height: auto;
+    float: right;
+}
+td{
+    color: #000000;
+    text-align: center;
+    padding: 15px;
+    font-family: Times, Helvetica, Arial;
+}
+div.categories{
+    font-family: Times, Helvetica, Arial;
+    text-align: center;
+    padding-top: 50px;
+}
+a.rubrik{
+    padding-right: 20px;
+}
+div.food-of-the-week{
+    border: 3px;
+    float: left;
+    margin: 30px;
+}
+img.week-pic{
+    width: 350px;
+    height: auto;
+    float: left;
+}
+img.profilbild {
+    width: 200px;
+    height: auto;
+    float: left;
+}
+img.kategory-button{
+    width: 20px;
+    height: auto;
+}
